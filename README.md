@@ -1,2 +1,2 @@
-# Algorithm and Problem Solving
+## Algorithm and Problem Solving
 
